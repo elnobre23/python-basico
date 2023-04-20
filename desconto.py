@@ -10,7 +10,7 @@ compra_3 = preco_unitario * unidade
 
 if unidade > 20:
     print('O preço da sua compra foi de: R$ ', compra_2)
-elif unidade > 10 < 20:
+elif unidade > 10:
     print('O preço da sua compra foi de: R$ ', compra_1)
 else:
     print('Não há descontos. O preço da sua compra foi de: R$ ', compra_3)
